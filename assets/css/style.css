@@ -3,6 +3,7 @@
     padding-top:50px;
     }
 }
+
 @media only screen and (max-width:767px) {
     body {
         padding-top:125px;
@@ -47,7 +48,3 @@ body {
 .fab {
     color: lightgoldenrodyellow;
 }
-/* .card-title{
-    height: 30px;
-    
-} */
